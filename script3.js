@@ -1,15 +1,15 @@
 document.addEventListener("DOMContentLoaded", function () {
-    var button3 = document.getElementById("roomItems");
+    var button3 = document.getElementById("cusRequest");
 
     button3.addEventListener("click", function () {
-        window.open("https://1drv.ms/x/s!AtdhzsQUaU89g3wFPaadSScb_Fbl?e=WhF63D", "_blank");
+        window.open("https://docs.google.com/spreadsheets/d/1V9kW1hkkVaWrrLpahRmNv6MBV33ISUObpKauOBpJGQc/edit#gid=0", "_blank");
     });
 });
 document.addEventListener("DOMContentLoaded", function () {
-    var button4 = document.getElementById("linen");
+    var button4 = document.getElementById("cusFeedback");
 
     button4.addEventListener("click", function () {
-        window.open("https://1drv.ms/x/s!AtdhzsQUaU89g36iG9LtnCelZL2R?e=8PSUNg", "_blank");
+        window.open("https://forms.office.com/Pages/AnalysisPage.aspx?AnalyzerToken=mw7H7l5jw43DaVRYMM5v4XEWuT0cjvYv&id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAACF8esdUQ1YwMk05Q0dONEVOUTgzSUZNVldVOVo3Mi4u", "_blank");
     });
 });
 
